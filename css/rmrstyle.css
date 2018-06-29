@@ -230,10 +230,11 @@ footer .row{
 }
 
 .first-sect-page-one p{
-    font-size: 0.9em;
+    font-size: 1 em;
     padding-top: 10px;
     line-height: 1.71429;
     font-family: 'Open Sans';
+	text-shadow: 3px 2px #000000;
 }
 
 .first-sect-page-one button {
@@ -268,7 +269,7 @@ footer .row{
 }
 
 .first-sect-page-one .p-submit{
-    font-size: 0.7em;
+    font-size: 0.9em;
     text-align: center;
 }
 
@@ -325,7 +326,7 @@ footer .row{
         text-align: justify;
         text-justify: auto;
         line-height: 1.71429;
-        font-size: 12px;
+        font-size: 14px;
         color: #000000;
         font-family: 'Open Sans';
     }
@@ -391,11 +392,11 @@ footer .row{
 
 
     .first-sect-page-one p {
-        font-size: 1em;
+        font-size: 1.3em;
         padding-top: 10px;
     }
     .first-sect-page-one .p-submit {
-        font-size: 0.9em;
+        font-size: 1.2em;
         text-align: center;
     }
 
