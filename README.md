@@ -14,6 +14,7 @@
 
 ![alt text](images/git/img-5.PNG)
 
-![alt text](images/git/img-mob-1.jpeg){:height="36px" width="36px"}.
+<img src="https://github.com/girishkathireddy/ratemyregion-index/tree/master/images/git/img-mob-1.jpeg" width="48">
 
-![alt text](images/git/img-mob-2.jpeg){:height="36px" width="36px"}.
+<img src="https://github.com/girishkathireddy/ratemyregion-index/tree/master/images/git/img-mob-2.jpeg" width="48">
+
