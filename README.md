@@ -14,7 +14,7 @@
 
 ![alt text](images/git/img-5.PNG)
 
-<img src="https://github.com/girishkathireddy/ratemyregion-index/tree/master/images/git/img-mob-1.jpeg" width="48">
+<img src="https://github.com/girishkathireddy/ratemyregion-index/tree/master/images/git/img-mob-1.jpeg">
 
-<img src="https://github.com/girishkathireddy/ratemyregion-index/tree/master/images/git/img-mob-2.jpeg" width="48">
+<img src="https://github.com/girishkathireddy/ratemyregion-index/tree/master/images/git/img-mob-2.jpeg">
 
