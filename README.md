@@ -14,7 +14,9 @@
 
 ![alt text](images/git/img-5.PNG)
 
-<img src="https://github.com/girishkathireddy/ratemyregion-index/tree/master/images/git/img-mob-1.jpeg">
 
-<img src="https://github.com/girishkathireddy/ratemyregion-index/tree/master/images/git/img-mob-2.jpeg">
+<p> Mobile View </p>
 
+![alt text](images/git/img-mob-1.PNG)
+
+![alt text](images/git/img-mob-2.PNG)
