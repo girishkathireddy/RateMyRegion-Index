@@ -15,8 +15,10 @@ function confirm_query($result_set) {
 //Save user email
 function saveEmail($userid,$useremail){
     global $connection;
-    $query = "INSERT INTO `email`(`userid`, `useremail`) VALUES ($userid,'$useremail')";
-//    error_log("Save Email \n" . $query, 3, "C:/xampp/apache/logs/error.log");
+    date_default_timezone_set('America/New_York');
+    $dateNow=date("Y-m-d H:i:s");
+    $query = "INSERT INTO `email`(`userid`, `useremail`,`datetime`) VALUES ($userid,'$useremail','$dateNow')";
+//error_log("Save Email \n" . $query, 3, "C:/xampp/apache/logs/error.log");
     $result = mysqli_query($connection, $query);
     confirm_query($result);
     $last_id = mysqli_insert_id($connection);
@@ -27,6 +29,7 @@ function saveEmail($userid,$useremail){
 
 function saveScore($userid,$score,$qNumber,$familiarity,$comment){
     global $connection;
+    date_default_timezone_set('America/New_York');
     $dateNow=date("Y-m-d H:i:s");
     $query = "INSERT INTO `userscore`(`userid`, `qustn`, `score`, `date`,familiarity,comment) VALUES ($userid,$qNumber,$score,'$dateNow','$familiarity','$comment')";
 //    error_log("Save Score \n" . $query, 3, "C:/xampp/apache/logs/error.log");
