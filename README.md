@@ -14,6 +14,6 @@
 
 ![alt text](images/git/img-5.PNG)
 
-![alt text](images/git/img-mob-1.PNG)
+![alt text](images/git/img-mob-1.jpeg)
 
-![alt text](images/git/img-mob-2.PNG)
+![alt text](images/git/img-mob-2.jpeg)
