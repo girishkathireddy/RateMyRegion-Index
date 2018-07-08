@@ -5,7 +5,7 @@
 <p>The index shows how well Hampton Roads is doing when it comes to supporting entrepreneurs.</p>
 <p>It is a responive web page with embedded MailChimp Integration to monitor and maintain the user e-mail subscriptons</p>
 
-<p>Few images which demonstrates the website responsiveness and visual impression  can be observed below.</p>
+### Few images which demonstrates the website responsiveness and visual impression  can be observed below.
 
 ![alt text](images/git/img-1.PNG)
 
