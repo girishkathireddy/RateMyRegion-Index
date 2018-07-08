@@ -20,7 +20,7 @@
 ![alt text](images/git/img-5.PNG)
 
 
-<p> Mobile View </p>
+### Mobile View 
 
 ![alt text](images/git/img-mob-1.PNG)
 
