@@ -6,6 +6,8 @@
 <p>It is a responive web page with embedded MailChimp Integration to monitor and maintain the user e-mail subscriptons</p>
 
 ### Few images which demonstrates the website responsiveness and visual impression  can be observed below.
+<br>
+<br>
 
 ![alt text](images/git/img-1.PNG)
 
