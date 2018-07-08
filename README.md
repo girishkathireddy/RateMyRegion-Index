@@ -1,6 +1,5 @@
 # RateMyRegion
-<p>
-Web page Link: [RateMyRegion](http://ratemyregion.com/) </p>
+<p>Web page Link:  <a href="http://ratemyregion.com/">RateMyRegion</a></p>
 
 <p> An Index about the business in Hampton Road.</p>
 
