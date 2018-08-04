@@ -5,6 +5,11 @@
 <p>The index shows how well Hampton Roads is doing when it comes to supporting entrepreneurs.</p>
 <p>It is a responive web page with embedded MailChimp and google analytics support</p>
 
+## Technologies
+```
+LAMP stack, jQuery, Javascript, Ajax, Bootstrap, bootstrap-slider, CSS, MailChimp, google analytics
+```
+
 ### Few images which demonstrates the website responsiveness and visual impression  can be observed below.
 <br>
 <br>
